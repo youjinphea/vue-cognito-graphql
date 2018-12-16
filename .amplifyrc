@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "vuecognitoauth-20181216114151-authRole",
+            "UnauthRoleArn": "arn:aws:iam::865422985541:role/vuecognitoauth-20181216114151-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::865422985541:role/vuecognitoauth-20181216114151-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "vuecognitoauth-20181216114151-deployment",
+            "UnauthRoleName": "vuecognitoauth-20181216114151-unauthRole",
+            "StackName": "vuecognitoauth-20181216114151",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:865422985541:stack/vuecognitoauth-20181216114151/24c3d610-00dc-11e9-aec5-0aa20f14f06e"
+        }
+    }
+}
