@@ -47,7 +47,7 @@
     </b-row>
 
     <b-row class="text-center">
-      <amplify-s3-album path="uploads"></amplify-s3-album>
+      <amplify-s3-album path="public"></amplify-s3-album>
     </b-row>
   </b-container>
 </template>

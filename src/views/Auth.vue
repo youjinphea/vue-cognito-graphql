@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import { components } from 'aws-amplify-vue'
+import { components } from "aws-amplify-vue";
 
 export default {
   data: () => {
@@ -12,16 +12,15 @@ export default {
         signUpConfig: {
           signUpFields: [
             {
-              label: 'Email',
-              key: 'email',
+              label: "Email",
+              key: "email",
               required: true,
-              type: 'string'
+              type: "string"
             }
           ]
         }
       }
-    }
+    };
   }
-}
-
+};
 </script>
